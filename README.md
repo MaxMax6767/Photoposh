@@ -25,8 +25,5 @@ https://stackoverflow.com/questions/45025869/how-to-process-images-in-real-time-
 -	[ ] Flou & Netteté : Mattéo.H
 -	[ ] Inversion : Mattéo.M
 
-
-```python
-while True:
-  Moutz <3
-```
+# Test
+<span style="color:blue">some *blue* text</span>
