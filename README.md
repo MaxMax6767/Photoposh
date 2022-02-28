@@ -9,7 +9,7 @@
 - 🟡 Max
 - 🟢 Moutz
 
-## Interface Utilisateurs : https://kivy.org/#home
+## Interface Utilisateurs : 
 - [ ]	🟡 [Séléction de Fichier](https://stackoverflow.com/questions/3579568/choosing-a-file-in-python-with-simple-dialog)
 - [ ]	🟡 [Sélection format sortie](https://stackoverflow.com/questions/11137120/how-to-convert-an-image-from-one-format-to-another-with-python)
 - [ ]	🟡 [Sliders / Boutons modifications](https://kivy.org/#home)
