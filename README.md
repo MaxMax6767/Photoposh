@@ -22,6 +22,6 @@
 -	[ ] 🟡 Ajustement taille (Rogner)
 -	[ ] 🔴 Passage monochrome (N&B & Nuances de gris)
 -	[ ] 🔴 Dessin sur image (modification pixel par pixel)
--	[ ] 🟢 Gestion de contour
--	[ ] 🟡 Flou & Netteté
+-	[ ] 🟡 Gestion de contour (Contour auto) 
+-	[ ] 🟢 Flou & Netteté
 -	[ ] 🟡 Inversion
