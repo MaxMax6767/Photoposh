@@ -24,3 +24,9 @@ https://stackoverflow.com/questions/45025869/how-to-process-images-in-real-time-
 -	[ ] Gestion de contour
 -	[ ] Flou & Netteté
 -	[ ] Inversion
+
+
+```python
+while True:
+  Moutz <3
+```
