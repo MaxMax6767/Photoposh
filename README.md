@@ -15,15 +15,15 @@ https://kivy.org/#home
 https://stackoverflow.com/questions/45025869/how-to-process-images-in-real-time-and-output-a-real-time-video-of-the-result
 
 ## Fonctionnalités :
--	[ ] Ajustement luminosité
--	[ ] Ajustement contraste
--	[ ] Ajustement Saturation
--	[ ] Ajustement taille (Rogner)
--	[ ] Passage monochrome (N&B & Nuances de gris)
--	[ ] Dessin sur image (modification pixel par pixel)
--	[ ] Gestion de contour
--	[ ] Flou & Netteté
--	[ ] Inversion
+-	[ ] Ajustement luminosité : Mattéo.H
+-	[ ] Ajustement contraste : Mattéo.M
+-	[ ] Ajustement Saturation : Mattéo.M
+-	[ ] Ajustement taille (Rogner) : Mattéo.M
+-	[ ] Passage monochrome (N&B & Nuances de gris) : Mattéo.H
+-	[ ] Dessin sur image (modification pixel par pixel) : Mattéo.H
+-	[ ] Gestion de contour : Mattéo.M
+-	[ ] Flou & Netteté : Mattéo.H
+-	[ ] Inversion : Mattéo.M
 
 
 ```python
