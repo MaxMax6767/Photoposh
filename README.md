@@ -5,9 +5,9 @@
 -	Edition modules interdits
 
 ## Membres :
-- 🔴 Reed 
-- 🟡 Max
-- 🟢 Moutz
+- 🔴 Matteo H.
+- 🟡 Maxime G.
+- 🟢 Matteo M.
 
 ## Interface Utilisateurs : 
 - [ ]	🟡 [Séléction de Fichier](https://stackoverflow.com/questions/3579568/choosing-a-file-in-python-with-simple-dialog)
