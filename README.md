@@ -1,34 +1,40 @@
 # Codename : Photoposh
 
-## Règles : 
--	Conversion Modules autorisés
--	Edition modules interdits
+## General Presentation :
+This repo is a group project for the last year of my high school computer science group. 
+The goal of this project is to allow editing of any image format by using the Bitmap format for modifications (which was imposed on us).
+The use of modules is only tolerated for functionalities that are not related to image editing, so we will make ample use of them for everything that surrounds the heart of our project.
 
-## Outils : 
-- ❓ [Article d'explications du format BMP](https://medium.com/sysf/bits-to-bitmaps-a-simple-walkthrough-of-bmp-image-format-765dc6857393)
-- 🛠️ [HXD (ça va être utile)](https://mh-nexus.de/en/downloads.php?product=HxD20)
+## Rules : 
+-	Modules allowed if not used for image modifications
+-	Image modification must not use modules
 
-## Membres :
+## Tools : 
+- ❓ [BMP Explanations (Detailed)](https://en.wikipedia.org/wiki/BMP_file_format)
+- 🛠️ [HXD (Hexadecimal Editor)](https://mh-nexus.de/en/downloads.php?product=HxD20)
+
+## Members :
 - 💔 Matteo H.
 - 💛 Maxime G.
 - 💚 Matteo M.
 
-## Interface Utilisateurs (Avec Modules) : 
-- [ ] 💚 [Séléction de Fichier](https://stackoverflow.com/questions/3579568/choosing-a-file-in-python-with-simple-dialog)
-- [ ] 💔 [Sélection format sortie](https://stackoverflow.com/questions/11137120/how-to-convert-an-image-from-one-format-to-another-with-python)
-- [ ] 💛 [Sliders / Boutons modifications](https://kivy.org/#home)
-- [ ] 💛 [Rendu temps réel de l’image](https://stackoverflow.com/questions/45025869/how-to-process-images-in-real-time-and-output-a-real-time-video-of-the-result)
+## Graphical User Interface (With Modules) : 
+- [x] 💛 [File Selection](https://stackoverflow.com/questions/3579568/choosing-a-file-in-python-with-simple-dialog)
+- [ ] 💔 [Output format selection](https://stackoverflow.com/questions/11137120/how-to-convert-an-image-from-one-format-to-another-with-python)
+- [ ] 💚 [Sliders / Buttons modifications](https://kivy.org/#home)
+- [ ] 💛 [Real Time image rendering](https://stackoverflow.com/questions/45025869/how-to-process-images-in-real-time-and-output-a-real-time-video-of-the-result)
 
-## Fonctionnalités (Avec Modules) :
-- [ ] 💛 [Conversion de l'image en entrée](https://stackoverflow.com/questions/46385999/transform-an-image-to-a-bitmap)
+## Functionalities (With Modules) :
+- [ ] 💛 [Automatic input file conversion](https://stackoverflow.com/questions/46385999/transform-an-image-to-a-bitmap)
 
-## Fonctionnalités (Sans Modules) :
--	[ ] 💔 Ajustement luminosité
--	[ ] 💚 Ajustement contraste
--	[ ] 💚 Ajustement Saturation
--	[ ] 💛 Ajustement taille (Rogner)
--	[ ] 💔 Passage monochrome (N&B & Nuances de gris)
--	[ ] 💔 Dessin sur image (modification pixel par pixel)
--	[ ] 💛 Gestion de contour (Contour auto) 
--	[ ] 💚 Flou & Netteté
+## Functionalities (Without Modules) :
+-   [x] 💛 Read information from BMP
+-	[ ] 💔 Brightness
+-	[ ] 💚 Contrast
+-	[ ] 💚 Saturation
+-	[ ] 💛 Crop
+-	[ ] 💔 Monochrome (B&W / Grayscale)
+-	[ ] 💔 Drawing on the image (Maybe)
+-	[ ] 💛 Automatic contour 
+-	[ ] 💚 Blur & Sharpness
 -	[ ] 💔 Inversion
