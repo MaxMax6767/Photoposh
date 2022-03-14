@@ -11,7 +11,7 @@ The use of modules is only tolerated for functionalities that are not related to
 
 ## Tools : 
 - ❓ [BMP Explanations (Detailed)](https://en.wikipedia.org/wiki/BMP_file_format)
-- 🛠️ [HXD (Hexadecimal Editor)](https://mh-nexus.de/en/downloads.php?product=HxD20)
+- 🛠️ [HXD (Hex Editor)](https://mh-nexus.de/en/downloads.php?product=HxD20)
 
 ## Members :
 - 💔 Matteo H.
@@ -20,15 +20,20 @@ The use of modules is only tolerated for functionalities that are not related to
 
 ## Graphical User Interface (With Modules) : 
 - [x] 💛 [File Selection](https://stackoverflow.com/questions/3579568/choosing-a-file-in-python-with-simple-dialog)
+    * Tkinter
 - [ ] 💔 [Output format selection](https://stackoverflow.com/questions/11137120/how-to-convert-an-image-from-one-format-to-another-with-python)
+    * File conversion, module is yet to be found
 - [ ] 💚 [Sliders / Buttons modifications](https://kivy.org/#home)
+    * Kivy
 - [ ] 💛 [Real Time image rendering](https://stackoverflow.com/questions/45025869/how-to-process-images-in-real-time-and-output-a-real-time-video-of-the-result)
+    * Numpy
 
 ## Functionalities (With Modules) :
 - [ ] 💛 [Automatic input file conversion](https://stackoverflow.com/questions/46385999/transform-an-image-to-a-bitmap)
 
 ## Functionalities (Without Modules) :
--   [x] 💛 Read information from BMP
+- [x] 💛 Read information from BMP
+    * Self made module / Pillow
 -	[ ] 💔 Brightness
 -	[ ] 💚 Contrast
 -	[ ] 💚 Saturation
