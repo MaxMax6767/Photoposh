@@ -39,3 +39,4 @@ The use of modules is only tolerated for functionalities that are not related to
 -	[ ] 💛 Edge Detection
 -	[ ] 💚 Blur & Sharpness
 -	[ ] 💔 Inversion
+-  [ ] 💛 Upscale / Downscale
