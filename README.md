@@ -20,20 +20,16 @@ The use of modules is only tolerated for functionalities that are not related to
 
 ## Graphical User Interface (With Modules) : 
 - [x] 💛 [File Selection](https://stackoverflow.com/questions/3579568/choosing-a-file-in-python-with-simple-dialog)
-    * Tkinter
-- [ ] 💔 [Output format selection](https://stackoverflow.com/questions/11137120/how-to-convert-an-image-from-one-format-to-another-with-python)
-    * File conversion, module is yet to be found
+    * [Tkinter](https://docs.python.org/fr/3/library/tkinter.html) -> Easy to use, compatible and quite light. 
+- [ ] 💔 [Output & Input format selection](https://understandingdata.com/python-for-seo/converting-images-webp-python/)
+    * [Pil / Pillow](https://pillow.readthedocs.io/en/stable/), Easy syntax and lots of fonctionnalities.
 - [ ] 💚 [Sliders / Buttons modifications](https://kivy.org/#home)
-    * Kivy
-- [ ] 💛 [Real Time image rendering](https://stackoverflow.com/questions/45025869/how-to-process-images-in-real-time-and-output-a-real-time-video-of-the-result)
-    * Numpy
-
-## Functionalities (With Modules) :
-- [ ] 💛 [Automatic input file conversion](https://stackoverflow.com/questions/46385999/transform-an-image-to-a-bitmap)
+    * [Kivy](https://kivy.org/#home), a bit heavier than Pygame because it is based around it but syntax is easier and it has more features that we could use.
+- [ ] 💛 [Real Time image rendering](https://new.pythonforengineers.com/blog/image-and-video-processing-in-python/)
+    * [OpenCV (cv2)](https://pypi.org/project/opencv-python/), offers a ton of possibilities but most importantly real time rendering. 
 
 ## Functionalities (Without Modules) :
-- [x] 💛 Read information from BMP
-    * Self made module / Pillow
+-  [x] 💛 Read information from BMP
 -	[ ] 💔 Brightness
 -	[ ] 💚 Contrast
 -	[ ] 💚 Saturation
