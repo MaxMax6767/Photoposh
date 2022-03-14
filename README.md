@@ -16,7 +16,7 @@ The use of modules is only tolerated for functionalities that are not related to
 ## Members :
 - 💔 Matteo H.
 - 💛 Maxime G.
-- 💚 Matteo M.
+- 💚 Sergent from wish.
 
 ## Graphical User Interface (With Modules) : 
 - [x] 💛 [File Selection](https://stackoverflow.com/questions/3579568/choosing-a-file-in-python-with-simple-dialog)
