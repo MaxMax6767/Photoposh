@@ -35,7 +35,6 @@ The use of modules is only tolerated for functionalities that are not related to
 -	[ ] 💚 Saturation
 -	[ ] 💛 Crop
 -	[ ] 💔 Monochrome (B&W / Grayscale)
--	[ ] 💔 Drawing on the image (Maybe)
 -	[ ] 💛 Edge Detection
 -	[ ] 💚 Blur & Sharpness
 -	[ ] 💔 Inversion
