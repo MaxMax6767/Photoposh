@@ -14,9 +14,9 @@ The use of modules is only tolerated for functionalities that are not related to
 - 🛠️ [HXD (Hex Editor)](https://mh-nexus.de/en/downloads.php?product=HxD20)
 
 ## Members :
-- 💔 Matteo H.
-- 💛 Max Heyla.
-- 💚 Santrell Cee.
+- 💔 Matteo Capra
+- 💛 Max Heyla
+- 💚 Santrell Cee
 
 ## Graphical User Interface (With Modules) : 
 - [x] 💛 [File Selection](https://stackoverflow.com/questions/3579568/choosing-a-file-in-python-with-simple-dialog)
